@@ -1,0 +1,35 @@
+.chartTitle {
+  display: flex;
+}
+
+.chartTitle p {
+  color: #1e204a;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1.2pt;
+}
+
+.chartTitle .badge {
+  font-size: 8px;
+  text-transform: uppercase;
+  margin: auto 3px;
+  padding: 2px 8px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.certain {
+  background-color: #77b9e5;
+  color: #fff;
+}
+
+.expected {
+  background-color: #e7c81c;
+  color: #000;
+}
+
+.unlikely {
+  background-color: #ee3f37;
+  color: #fff;
+}
